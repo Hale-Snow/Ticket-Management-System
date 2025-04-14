@@ -1,0 +1,16 @@
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.DAL.deps.json
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.DAL.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.DAL.pdb
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.Model.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.Model.pdb
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.csproj.AssemblyReference.cache
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.AssemblyInfoInputs.cache
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.AssemblyInfo.cs
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTi.224717A5.Up2Date
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\refint\LeshanTicketSystem.DAL.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\LeshanTicketSystem.DAL.pdb
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\obj\Debug\net8.0\ref\LeshanTicketSystem.DAL.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.DAL\bin\Debug\net8.0\LeshanTicketSystem.DAL.dll.config

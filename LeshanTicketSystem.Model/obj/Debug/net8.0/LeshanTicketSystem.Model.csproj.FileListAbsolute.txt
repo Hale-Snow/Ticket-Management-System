@@ -1,0 +1,11 @@
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\bin\Debug\net8.0\LeshanTicketSystem.Model.deps.json
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\bin\Debug\net8.0\LeshanTicketSystem.Model.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\bin\Debug\net8.0\LeshanTicketSystem.Model.pdb
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.AssemblyInfoInputs.cache
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.AssemblyInfo.cs
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.csproj.CoreCompileInputs.cache
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\refint\LeshanTicketSystem.Model.dll
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\LeshanTicketSystem.Model.pdb
+D:\Code\C#-Nine\LeshanTicketSystem\LeshanTicketSystem.Model\obj\Debug\net8.0\ref\LeshanTicketSystem.Model.dll

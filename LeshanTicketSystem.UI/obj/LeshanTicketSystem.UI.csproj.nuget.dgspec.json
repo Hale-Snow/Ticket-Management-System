@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.UI\\LeshanTicketSystem.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\LeshanTicketSystem.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\LeshanTicketSystem.BLL.csproj",
+        "projectName": "LeshanTicketSystem.BLL",
+        "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\LeshanTicketSystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\Prit\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\LeshanTicketSystem.DAL.csproj": {
+                "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\LeshanTicketSystem.DAL.csproj"
+              },
+              "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj": {
+                "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\LeshanTicketSystem.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\LeshanTicketSystem.DAL.csproj",
+        "projectName": "LeshanTicketSystem.DAL",
+        "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\LeshanTicketSystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\Prit\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj": {
+                "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj",
+        "projectName": "LeshanTicketSystem.Model",
+        "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj",
+        "packagesPath": "C:\\Users\\Prit\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.UI\\LeshanTicketSystem.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.UI\\LeshanTicketSystem.UI.csproj",
+        "projectName": "LeshanTicketSystem.UI",
+        "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.UI\\LeshanTicketSystem.UI.csproj",
+        "packagesPath": "C:\\Users\\Prit\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
+            "projectReferences": {
+              "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\LeshanTicketSystem.BLL.csproj": {
+                "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.BLL\\LeshanTicketSystem.BLL.csproj"
+              },
+              "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj": {
+                "projectPath": "D:\\Code\\C#-Nine\\LeshanTicketSystem\\LeshanTicketSystem.Model\\LeshanTicketSystem.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "MaterialSkin3": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[5.0.55, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
